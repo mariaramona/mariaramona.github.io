@@ -1,12 +1,6 @@
-li{
-    color: blue;
-    font-weight: bold;
-    }
-    h1{
-    color: red;
-    }
-html{
-font-family: helvetica, sans-serif, 'Comic Sans';
+.intro{
+font-family: 'Trebuchet MS', serif;
 }
-
-    
+.meat{
+font-family: 'Libre Bodoni', serif;
+}
