@@ -1,6 +1,11 @@
 .intro{
 font-family: 'Trebuchet MS', serif;
+color: #373554;
 }
 .meat{
 font-family: 'Libre Bodoni', serif;
+color: #34324a;
+}
+body{
+background-image: url('white-2484120_1280');
 }
