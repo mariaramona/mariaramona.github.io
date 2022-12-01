@@ -1,13 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(https://fonts.googleapis.com/css?family=Libre+Bodoni);
 .intro{
-font-family: 'Trebuchet MS', Verdana, serif;
+font-family: 'Trebuchet MS', serif;
 color: #373554;
 }
 .meat{
-font-family: 'Libre Bodoni', serif;
+font-family: 'Trebuchet MS', serif;
 color: #34324a;
 }
 body{
-background-image: url('white-2484120_1280');
 }
